@@ -28,7 +28,7 @@ HTML, CSS, Javascript, Next.js, React.js, Firebase, TailwindCSS, Github
 
 
 ### 🎥Comflix: 
-- I recently completed a movie finder project using Next.js, TypeScript, Recoil, and ModalUI, which reinforced my skills in these technologies and allowed me to create a seamless and user-friendly movie search experience.
+- This is a movie finder project using Next.js, TypeScript, Recoil, and ModalUI, which reinforced my skills in these technologies and allowed me to create a seamless and user-friendly movie search experience.
 - [![Comflix](https://img.shields.io/badge/🎥Comflix-blue?style=for-the-badge&logo)](https://game-land-one.vercel.app)
 
 
