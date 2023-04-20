@@ -32,6 +32,6 @@ HTML, CSS, Javascript, Next.js, React.js, Firebase, TailwindCSS, Github
 - [![Comflix](https://img.shields.io/badge/🎥Comflix-blue?style=for-the-badge&logo)](https://game-land-one.vercel.app)
 
 
-## 💬Social Media Clone: 
+### 💬Social Media Clone: 
 - This is a Twitter clone built with React and JavaScript. Users can sign up, log in, post tweets, like and retweet other users' tweets, and follow and unfollow other users. The app uses Firebase for user authentication and Firestore for data storage.
 - [![Social Media Clone](https://img.shields.io/badge/💬Social_Media_Clone-blue?style=for-the-badge&logo)](https://game-land-one.vercel.app)
