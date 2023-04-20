@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**campos-415/campos-415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Cesar 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤓 About Me
+I am a Frontend Software Engineer with a passion for coding and creating innovative solutions. When I'm not busy working on my Projects writing code, you can find me spending time with my two furry best friends - my dogs. I also enjoy modifying cars and capturing life's moments through photography. I find that my hobbies allow me to express my creativity in unique ways and give me a fresh perspective when tackling complex engineering problems. In my free time, I love exploring new places, trying new foods, and meeting new people. I believe in the power of continuous learning and always strive to keep up with the latest technologies and advancements in my field.
+
+
+## 🛠⚡️ Skills
+HTML, CSS, Javascript, Next.js, React.js, Firebase, TailwindCSS, Github
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cesarcampos.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/campos415)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/camposs415)
+
+
+## Projects
+
+- 👨🏽‍💻Portfolio: This is my portfolio website built with Next.js, Tailwind CSS, and TypeScript. It features a clean and modern design with server-side rendering for optimal performance and SEO. Browse my code and use it as a reference for your own projects.
+
+
+- 🎮GameLand: This is a game website built using React, TypeScript, and Tailwind CSS. The website fetches data from the RAWG API, which provides information on video games, and allows users to browse and search for games. Users can view details about a game, including its release date, rating, and screenshots. The website is responsive and optimized.
+
+
+- 🎥Comflix: I recently completed a movie finder project using Next.js, TypeScript, Recoil, and ModalUI, which reinforced my skills in these technologies and allowed me to create a seamless and user-friendly movie search experience.
+
+- 💬Social Media Clone: This is a Twitter clone built with React and JavaScript. Users can sign up, log in, post tweets, like and retweet other users' tweets, and follow and unfollow other users. The app uses Firebase for user authentication and Firestore for data storage.
